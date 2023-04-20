@@ -15,4 +15,4 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
               unalias rm
-              rm -rf tpettwa1/cmsc389T-web-template
+              rm -rf <Repo-Name>

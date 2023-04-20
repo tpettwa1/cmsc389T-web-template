@@ -16,3 +16,7 @@ Rose quartz: #B2A3B5
 
 ## Custom Changes
 Made changes to the font of about me, projects, and home.
+
+## Links
+https://tpettwa1.github.io/cmsc389T-web-template/
+https://terpconnect.umd.edu/~tpettwa1/cmsc389T-web-template/
